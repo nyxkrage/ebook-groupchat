@@ -2,3 +2,4 @@
 *.parquet
 out/
 .env
+*.jsonl
